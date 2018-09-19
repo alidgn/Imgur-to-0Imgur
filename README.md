@@ -10,8 +10,8 @@ Bildiğiniz üzere ülkemizde imgur.com adresine erişim engeli bulunmaktadır. 
 > - Denemek için [bu adrese](https://stackoverflow.com/questions/10744305/how-to-create-gitignore-file) girebilirsiniz.
 > - Sayfa yüklendiğinde adres çubuğuna yer imine verdiğiniz adı yazınca size eklediğiniz kodu gösterecektir, seçip enterladığnızda kırık olan resim görünür olacaktır.
 
-![res1](<url> "res.1")
+![res1](https://github.com/alidogangamuse/Imgur-to-0Imgur/blob/master/images/git-img-1.png?raw=true "res.1")
 
-![res2](<url> "res.2")
+![res2](https://github.com/alidogangamuse/Imgur-to-0Imgur/blob/master/images/git-img-2.png?raw=true "res.2")
 
-![res3](<url> "res.3")
+![res3](https://github.com/alidogangamuse/Imgur-to-0Imgur/blob/master/images/git-img-3.png?raw=true "res.3")
