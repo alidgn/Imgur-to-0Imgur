@@ -1,6 +1,6 @@
 ## VPN kullanmadan imgur resimlerini görüntüleme
 
-Bildiğiniz üzere ülkemizde imgur.com adresine erişim engeli bulunmaktadır. Bu yüzden imgurda depolanan resimleri görüntülemekte sıkıntı yaşayabiliyoruz. Örneğin stackoverflow.com adresinde kullanıcıların yüklediği resimler varsayılan olarak imgur.com'da depolanmaktadır. Bu da direkt imgura girmesek bile resimlerin kırık şekilde gözükmesine neden olmaktadır. Böyle basit bir sorun için VPN kullanmak saçma olduğunu düşünerekten bu kodu yazdım. Yazdığım bu jQuery kodu, açtığınız sayfada imgur.com adresli resimlerin url'leri 0imgur.com olarak değişmesini sağlamaktadır. Bu işlem kullanıcı tarafında gerçekleştiği için sayfayı yenilerseniz eski haline dönecektir.
+Bildiğiniz üzere ülkemizde imgur.com adresine erişim engeli bulunmaktadır. Bu yüzden imgurda depolanan resimleri görüntülemekte sıkıntı yaşayabiliyoruz. Örneğin stackoverflow.com adresinde kullanıcıların yüklediği resimler varsayılan olarak imgur.com'da depolanmaktadır. Bu da kullanıcıların yüklediği resimlerin kırık şekilde gözükmesine neden olmaktadır. Böyle basit bir sorun için VPN kullanmak saçma olduğunu düşünerekten bu kodu yazdım. Yazdığım bu jQuery kodu, açtığınız sayfada imgur.com adresli resimlerin url'lerinin 0imgur.com olarak değişmesini sağlamaktadır. Bu işlem kullanıcı tarafında (client-side) uygulandığı için sayfayı yenilerseniz eski haline dönecektir.
 
 Şimdi kodun nasıl çalıştığını açıklayayım:
 > - Öncelikle tarayıcımızda yeni boş bir yer imi oluşturuyoruz.
